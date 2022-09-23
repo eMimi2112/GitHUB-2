@@ -1,0 +1,5 @@
+Le fichier "maPage.html" est un fichier HTML structuré correctement. 
+
+Parmi les autres fichiers HTML ci-dessous, déterminez lesquels présentent une erreur de structure et corrigez-les!  
+
+Pour exécuter le code dans VS Code (Ctrl + F5)
