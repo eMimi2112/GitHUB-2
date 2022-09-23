@@ -1,5 +1,14 @@
-Le fichier "maPage.html" est un fichier HTML structuré correctement. 
+1. Ecrivez du code HTML dans "musiques.html", avec comme titre de page "Chansons".
+Vous y mettrez vos 5 chansons préférées 
 
-Parmi les autres fichiers HTML ci-dessous, déterminez lesquels présentent une erreur de structure et corrigez-les!  
+2. Ecrivez du code HTML dans "films.html", 
+avec comme titre de page "Films".Vous y mettrez vos 5 films préférés 
 
-Pour exécuter le code dans VS Code (Ctrl + F5)
+3. Ecrivez du code HTML dans "sports.html", avec comme titre de page "Sports".
+Vous y mettrez vos 5 sports  
+
+4. Ecrivez du code HTML dans "plats.html", avec comme titre de page "Plats".
+Vous y mettrez vos 5 plats préféres 
+
+5. Ecrivez du code HTML dans "stars.html", avec comme titre de page "Stars".
+Vous y mettrez les noms de 2 célébrités. 
